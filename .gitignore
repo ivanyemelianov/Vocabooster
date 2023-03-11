@@ -1,6 +1,24 @@
 # Prerequisites
 *.d
 
+# Visual Studio files
+*.obj
+*.lib
+*.dll
+*.exe
+*.sdf
+*.opensdf
+*.user
+*.suo
+*.vcxproj.user
+
+# Visual Studio output directories
+Debug/
+Release/
+x64/
+Win32/
+
+
 # Compiled Object files
 *.slo
 *.lo
